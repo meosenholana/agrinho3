@@ -1,1 +1,2 @@
 # agrinho3
+Uso de drones para monitoramento de pequenas hortas, otimizando irrigação e controle de pragas de forma sustentável. Promovendo qualiadade e tambem segurança. Este projeto demonstra como os drones podem ser aliados da sustentabilidade no campo. Por meio de imagens aéreas e sensores, os drones auxiliam no acompanhamento das lavouras, permitindo decisões mais precisas sobre irrigação, adubação e controle de pragas. Dessa forma, os produtores economizam recursos naturais, reduzem impactos ambientais e promovem uma produção agrícola mais responsável e tecnológica.
